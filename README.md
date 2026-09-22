@@ -1,1 +1,1 @@
-# first-class-1
+# first-lab-1
